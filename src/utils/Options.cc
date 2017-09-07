@@ -17,9 +17,9 @@ DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
 OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 **************************************************************************************************/
 
-#include "minisat/mtl/Sort.h"
-#include "minisat/utils/Options.h"
-#include "minisat/utils/ParseUtils.h"
+#include "src/mtl/Sort.h"
+#include "src/utils/Options.h"
+#include "src/utils/ParseUtils.h"
 
 using namespace Minisat;
 
